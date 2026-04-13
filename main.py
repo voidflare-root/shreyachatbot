@@ -5,7 +5,7 @@ import io
 from urllib.parse import quote
 
 # --- CONFIGURATION ---
-BOT_TOKEN = 'BOT_TOKEN'
+BOT_TOKEN = '8510711613:AAE9iRWAhlsdDhX3SvjSzURxFtqGOFrD86I'
 GROQ_API_KEY = 'GROQ_API_KEY'
 
 bot = telebot.TeleBot(BOT_TOKEN)
