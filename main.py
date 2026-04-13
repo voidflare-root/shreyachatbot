@@ -23,7 +23,7 @@ def keep_alive():
     t.start()
 
 # --- CONFIGURATION (Render ke Environment Variables se lega) ---
-BOT_TOKEN = os.getenv('BOT_TOKEN')
+BOT_TOKEN = os.getenv('8510711613:AAE9iRWAhlsdDhX3SvjSzURxFtqGOFrD86I')
 GROQ_API_KEY = os.getenv('GROQ_API_KEY')
 
 bot = telebot.TeleBot(BOT_TOKEN)
